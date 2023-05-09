@@ -11,8 +11,7 @@
 
 >2.2 The Agile Manifesto.
 
-## 3. Basics of Lean
-
+## 3. Basics of Lean  
 >3.1 Lean Movement historically finds it roots in 1938 with Toyota.
 
 >3.2 Lean is a set of principles that guide the creation of value for customers while ***minimizing waste*** & ***Maximizing quality***.
