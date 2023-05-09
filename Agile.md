@@ -11,14 +11,15 @@
 
 >2.2 The Agile Manifesto.
 
-## 3. Basics of Lean  
+## 3. Basics of Lean
+
 >3.1 Lean Movement historically finds it roots in 1938 with Toyota.
 
 >3.2 Lean is a set of principles that guide the creation of value for customers while ***minimizing waste*** & ***Maximizing quality***.
 
 >3.3 Principles of Lean:  
-    >> 3.3.1 Eliminate Waste.  
-    >> 3.3.2 Amplify Learning.  
+    >> 3.3.1 Eliminate Waste.  (Eliminating waste in the value stream)  
+    >> 3.3.2 Amplify Learning.  (Learning from mistakes and successes)  
     >> 3.3.3 Decide as Late as Possible.  (Delaying decisions until the last responsible moment)  
     >> 3.3.4 Deliver as Fast as Possible.  (Delivering value to customers as quickly as possible)  
     >> 3.3.5 Empower the Team. (Giving teams the autonomy to make decisions)  
@@ -36,7 +37,7 @@
 |Key Q | How do we build?| what do we build ?|
 |measuring success against| stakeholders, users | Markets
 |Key values| Flexibility, adaptability, responsiveness | Efficiency, quality, value|
-key documents | User stories, product backlog | Business model canvas, value stream map|
+elements | User stories, product backlog | Business model canvas, value stream map|
 
 
 ## 5. Agile+Lean practices: Standup, user stories, retrospectives.
