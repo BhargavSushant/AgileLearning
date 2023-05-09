@@ -16,7 +16,7 @@
 
 >3.2 Lean is a set of principles that guide the creation of value for customers while ***minimizing waste*** & ***Maximizing quality***.
 
->3.3 Principles of Lean:
+>3.3 Principles of Lean:  
     >> 3.3.1 Eliminate Waste.  
     >> 3.3.2 Amplify Learning.  
     >> 3.3.3 Decide as Late as Possible.  (Delaying decisions until the last responsible moment)  
